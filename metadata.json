@@ -1,0 +1,6 @@
+{
+  "name": "Language Changer",
+  "description": "A secure multi-language web portal with English, Spanish, Hindi, Portuguese, Chinese, and French support. Switching to French requires a server-verified OTP sent to the user's registered email address, simulated via an interactive email inbox dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
